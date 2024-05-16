@@ -1,0 +1,20 @@
+body {
+    background-color: bisque;
+}
+
+h1,
+h2,
+h3 {
+    color: fuchsia;
+    background-color: paleturquoise;
+    font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+}
+
+h1 {
+    text-align: center;
+    font-size: 46px;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
