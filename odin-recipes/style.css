@@ -1,21 +1,45 @@
 body {
     background-color: bisque;
+    font-family: "Expressway", sans-serif;
+}
+
+img {
+    margin: 0 auto;
+    display: block;
+    border: 1px solid black;
 }
 
 h1,
 h2,
 h3 {
-    color: fuchsia;
+    color: rgb(63, 60, 60);
     background-color: paleturquoise;
     font-family: "Brush Script MT", "Lucida Handwriting", cursive;
+    border: 1px solid black;
+    text-align: center;
 }
 
 h1 {
-    text-align: center;
-    font-size: 46px;
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 42px;
+}
+
+h3 {
+    font-size: 30px;
 }
 
 a {
     font-family: 'Courier New', Courier, monospace;
+    font-size: 26px;
 }
+
+.front_page {
+    display: table;
+    margin: 30px auto;
+}
+
+
 
